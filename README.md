@@ -5,7 +5,7 @@ Alfred workflow to quickly toggle night shift
 ![toggle](https://raw.githubusercontent.com/enzosv/alfred-nightshift-toggle/master/toggle.png)<br><br>
 
 ## Install
-[packal](http://www.packal.org/workflow/nightshifttoggle) or [workflow]((https://github.com/enzosv/alfred-nightshift-toggle/blob/master/NightShiftToggle.alfredworkflow?raw=true))
+[packal](http://www.packal.org/workflow/nightshifttoggle) or [workflow](https://github.com/enzosv/alfred-nightshift-toggle/blob/master/NightShiftToggle.alfredworkflow?raw=true)
 
 ## Credits
 Inspired by [NightShift](http://www.packal.org/workflow/nightshift)<br>
