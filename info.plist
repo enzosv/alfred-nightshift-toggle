@@ -23,7 +23,7 @@
 	<key>createdby</key>
 	<string>enzosv</string>
 	<key>description</key>
-	<string>Alfred workflow to toggle nightshift on and off</string>
+	<string>Alfred workflow to quickly toggle night shift</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
